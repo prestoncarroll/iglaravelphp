@@ -15,9 +15,12 @@
                 <h1>Preston Carroll</h1>
             </div>
             <div class="d-flex">
-                <div class="p-2"><strong>Posts </strong></div>
-                <div class="p-2"><strong>Following </strong></div>
-                <div class="p-2"><Strong>Followers </Strong></div>
+                <div class="pr-5"><strong> 23 </strong>Posts</div>
+                <div class="pr-5"><strong> 120 </strong>Following</div>
+                <div class="pr-5"><Strong> 12k </Strong>Followers</div>
+            </div>
+            <div class="pt-4 font-weight-bold">
+                I love to code. code is life. UCLA graduate and a determined Software Engineer!
             </div>
 
         </div>
