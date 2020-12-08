@@ -3,14 +3,22 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-3">
+        <div class="col-3 p-5">
 
-            <!-- <img src="{{ URL::to('/public/svg/IMG_7633.PNG')}}" /> -->
-            <img src="/images/IMG_7633.PNG">
-            <!-- <img src="{{ URL::to('/assets/img/default.jpg') }}"> -->
+
+            <img style=" max-height:250px;" class="rounded-circle" src="/images/me2.jpg">
+
 
         </div>
-        <div class="col-9">
+        <div class="col-9 pt-5">
+            <div>
+                <h1>Preston Carroll</h1>
+            </div>
+            <div class="d-flex">
+                <div class="p-2"><strong>Posts </strong></div>
+                <div class="p-2"><strong>Following </strong></div>
+                <div class="p-2"><Strong>Followers </Strong></div>
+            </div>
 
         </div>
     </div>
