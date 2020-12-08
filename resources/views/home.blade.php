@@ -26,13 +26,28 @@
         </div>
     </div>
 
+    <div class="row">
+        <div class="col-4">
+            <img style="  max-height:290px;" class="w-100 h-100" src="/images/drinks.png">
+        </div>
+        <div class="col-4">
+            <img style="max-height:290px;" class="w-100 h-100" src="/images/phase.png">
+        </div>
+        <div class="col-4">
+            <img style="max-height:290px;" class="w-100 h-100" src="/images/timedQuiz.png">
+        </div>
+    </div>
+
+
+</div>
 
 
 
 
 
 
-    <!-- <div class="row justify-content-center">
+
+<!-- <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">{{ __('Dashboard') }}</div>
