@@ -15,7 +15,7 @@
                 <h1>Preston Carroll</h1>
             </div>
             <div class="d-flex">
-                <div class="pr-5"><strong> 23 </strong>Posts</div>
+                <div class="pr-5"><strong> 6 </strong>Posts</div>
                 <div class="pr-5"><strong> 120 </strong>Following</div>
                 <div class="pr-5"><Strong> 12k </Strong>Followers</div>
             </div>
@@ -26,7 +26,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row p-3">
         <div class="col-4">
             <img style="  max-height:290px;" class="w-100 h-100" src="/images/drinks.png">
         </div>
@@ -35,6 +35,17 @@
         </div>
         <div class="col-4">
             <img style="max-height:290px;" class="w-100 h-100" src="/images/timedQuiz.png">
+        </div>
+    </div>
+    <div class="row p-3">
+        <div class="col-4">
+            <img style="  max-height:290px;" class="w-100 h-100" src="/images/train.png">
+        </div>
+        <div class="col-4">
+            <img style="max-height:290px;" class="w-100 h-100" src="/images/knight.png">
+        </div>
+        <div class="col-4">
+            <img style="max-height:290px;" class="w-100 h-100" src="/images/giftastic.png">
         </div>
     </div>
 
