@@ -145,6 +145,7 @@
 
         .mt-92 {
             font-size: 30px;
+            margin-bottom: 100%;
         }
 
         .mr-2 {
